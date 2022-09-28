@@ -1,0 +1,5 @@
+git add . Ou git add -A  insere os arquivos e pastas para o projeto Git localmente
+
+Para inserir no GitHub online: git commit -m "Inclusão das anotações do curso Git/GitHub"
+
+https://blog.impulso.team/git-e-github-mfbp/?utm_source=google&utm_medium=cpc&utm_campaign=ad-search-blog-impulso&utm_term=marketing&gclid=CjwKCAjw4c-ZBhAEEiwAZ105RZXcU5ShAOIdoOxKo9U0UlhgFqgdnCm1GaeEmQGERtZ7xLKjdC9LkRoCT24QAvD_BwE
